@@ -5,15 +5,13 @@ Image Processing and Computer vision algorithms in Java
 
 
 Requirements
-------------
-
+============
 Java runtime environment 1.6 or above
 
 NetBeans 7.0 or above. This is a NetBeans project. You can import source files if you need to use in your own project.
 
 Features
---------
-
+========
 1.Point operations - left rotate, flip vertical, negative, normalize, grayscale, crop
 
 2.Resampling - Nearest neighbour, bilinear, bicubic
@@ -28,7 +26,7 @@ Features
 
 
 Usage
------
+=====
 
 1.Run the project using NetBeans
 
@@ -58,7 +56,7 @@ tick canny edge detector. Press Apply button.
 
 
 Tips
-----
+====
 
 1.Always provide edge detected images for Segmentation and Representation operations.
 
